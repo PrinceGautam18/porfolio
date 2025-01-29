@@ -16,7 +16,7 @@ session_start();
     <Head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width-decive-width, initial-scale-1.0">
-        <link rel="stylesheet" href="Style/homeStyle.css">
+        <link rel="stylesheet" href="Style/index.css">
         <Title>portfolio</Title>
 
         <!-- animated div and scrolling -->
