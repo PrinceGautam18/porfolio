@@ -11,7 +11,7 @@ session_start();
 
 
 
-<!DOCTYPE html>
+
 <html>
     <Head>
         <meta charset="UTF-8">
