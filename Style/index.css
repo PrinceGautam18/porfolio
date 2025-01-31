@@ -98,8 +98,8 @@ span{
    
     box-shadow: 0 0 2rem rgb(4, 10, 97);
     border-radius: 50%;
-    width: 350px;
-    height: 350px;
+    width: 500px;
+    height: 500px;
     animation: floatImage 2s ease-in-out infinite;
 }
 @keyframes floatImage {
