@@ -53,8 +53,8 @@ session_start();
                 <h3>Hi, myself</h3>
                 <h1 >Prince Gautam</h1>
                 <h3>I'm a <span class="auto-type"> Software Designer</span></h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi ipsam, quos similique consequatur sapiente adipisci pariatur laudantium totam vero repudiandae tempore eligendi rerum est minima. Corporis quae ea reprehenderit laudantium?</p>
-           <div class="social-media">
+              <p>  with a love for crafting innovative digital experiences. With a strong background in programming and design, I thrive at the intersection of technology and creativity.</p>     
+                <div class="social-media">
             <a href="https://www.facebook.com/princejaicop.jaicop.7/about"><i class="fa-brands fa-facebook"></i></a>
             <a href="https://www.instagram.com/_myself_prince__/"><i class="fa-brands fa-instagram"></i></a>
             <a href="https://x.com/Prince_Gautam18"><i class="fa-brands fa-x-twitter"></i></a>
